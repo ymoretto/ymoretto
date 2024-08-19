@@ -15,7 +15,7 @@ I’m a dedicated Frontend Developer with over five years of experience in creat
 - [WTL Web Application at mecorad](https://mecorad.com/wtl-series/) - Developed a web application enabling real-time interaction with IoT sensor data, improving data accessibility and workflow efficiency.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,cypress,d3,docker,electron,express,git,github,laravel,nodejs,php,pinia,postman,react,ts,vitest,vue,html,css,bootstrap)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 

@@ -17,6 +17,14 @@ I’m a dedicated Frontend Developer with over five years of experience in creat
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,cypress,d3,docker,electron,express,git,github,laravel,nodejs,php,pinia,postman,react,ts,vitest,vue,html,css,bootstrap)](https://skillicons.dev)
 
+## Education
+
+**Current Courses:**
+
+- CS50x Introduction to Computer Science (Harvard University)
+
+**Completed Courses:**
+
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development

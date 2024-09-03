@@ -25,6 +25,8 @@ I’m a dedicated Frontend Developer with over five years of experience in creat
 
 **Completed Courses:**
 
+- Scrum foundation Professional Certificate (SFPC)
+
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
